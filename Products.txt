@@ -1,0 +1,9 @@
+Mango,10,12,120
+Banana,15,11,200
+Strawberry,16,12,270
+Kiwi,10,10,290
+Pomegranate,30,11,190
+Noodles,34,11,330
+Flafal,20,10,230
+Burger,30,11,400
+Pizza,20,10,400
